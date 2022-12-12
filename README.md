@@ -1,6 +1,13 @@
 # odin-recipes
 The project is about buiding a website for recipes
 
-The skills I have obtained so far are: the usual boilerplate HTML, inserting images, commenting, committing and links.
-
+Skills obtained:
+<ul>
+<li>the usual boilerplate HTML</li>
+<li>inserting images, commenting</li>
+<li>committing and links.<li>
+</ul>
 Review at the end of project:
+
+At the beginning of the project it was hard to get use to commiting an pushing. I got used to it. It's earlier 
+now that I continued the project. I have a better understanding of the way git works compared to the beginning of the project.
