@@ -1,0 +1,13 @@
+body {
+    background: #B0C4DE;
+}
+
+h1, body {
+    text-align: center;
+    font-family: Fantasy, "Arial", sans-serif;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
