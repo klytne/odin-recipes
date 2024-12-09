@@ -17,7 +17,7 @@ A simple recipe website
 
 <h2>Acknowledgements</h2>
 <ul>
-  <li>Scrimba: <a href="https://www.theodinproject.com/">The Odin Project</a></li>
+  <li>The Odin Project: <a href="https://www.theodinproject.com/">The Odin Project</a></li>
 </ul>
 
 <h2>Author</h2>
