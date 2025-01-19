@@ -10,11 +10,6 @@ A simple recipe website
   <li>JavaScript</li> -->
 </ul>
 
-<h3>What I learnt</h3>
-<ul>
-  <li>...Will see at the end</li>
-</ul>
-
 <h2>Acknowledgements</h2>
 <ul>
   <li>The Odin Project: <a href="https://www.theodinproject.com/">The Odin Project</a></li>
