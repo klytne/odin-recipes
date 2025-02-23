@@ -1,0 +1,28 @@
+* {
+    background-color: #dad7cd;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+h2.ingre-per-servings {
+    font-size: 16px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+ul, ol {
+    font-size: 14px;
+}
+
+#description {
+    font-style: italic;
+}
+
+img {
+    width: 300px;
+}
