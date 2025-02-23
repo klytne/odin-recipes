@@ -6,8 +6,8 @@ A simple recipe website
 <h3>Languages</h3>
 <ul>
   <li>HTML</li>
-  <!-- <li>CSS</li>
-  <li>JavaScript</li> -->
+  <li>CSS</li>
+  <!--<li>JavaScript</li> -->
 </ul>
 
 <h2>Acknowledgements</h2>
